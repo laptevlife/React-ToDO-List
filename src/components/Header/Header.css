@@ -1,0 +1,12 @@
+.app-header{
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2vh;
+    
+}
+h1{
+    font-size: 5vw;
+}
+h2{
+    font-size: 4vw;
+}

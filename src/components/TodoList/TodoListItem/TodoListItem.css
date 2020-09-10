@@ -1,0 +1,26 @@
+button.btn-items{
+    margin-left: 10px;
+}
+.right{
+   float: right;
+   /* display: flex;
+   align-items:center; */
+}
+.list-group-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* span:hover{
+    background-color: #6acad6;
+    transition: all ease 0.5s;
+} */
+.done{
+    text-decoration: line-through;
+}
+
+.important{
+    color: blue;
+    font-weight: bold;
+}
